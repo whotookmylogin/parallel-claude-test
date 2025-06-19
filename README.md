@@ -1,5 +1,7 @@
 # 🚀 Parallel Claude Code Test - ULTIMATE EDITION
 
+**Test parallel Claude Code development: 10x → 30x engineer experiment with automated multi-agent coordination**
+
 ## One-Click Parallel Development
 
 ### 🎯 Super Easy Start (Recommended)
